@@ -45,7 +45,7 @@ export const TalkingHead: React.FC<TalkingHeadProps> = ({ videoSrc, captionsSrc,
     <AbsoluteFill style={{ backgroundColor: "#111111" }}>
       <Sequence name="Footage" durationInFrames={videoFrames}>
         <AbsoluteFill style={{ scale: String(scale), transformOrigin: "50% 38%" }}>
-          <Video src={staticFile(videoSrc)} trimAfter={videoFrames} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+          <Video src={staticFile(videoSrc)} trimAfter={videoFrames} objectFit="cover" style={{ width: "100%", height: "100%" }} />
         </AbsoluteFill>
         <Captions src={captionsSrc} accent={accent} />
       </Sequence>

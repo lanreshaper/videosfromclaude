@@ -93,14 +93,43 @@ def lipsync(base, audio, dest):
     urllib.request.urlretrieve(job["outputUrl"], dest)
 
 
+def build_base(specs, single_start, need, dest):
+    """Join base clips (video only) into one file at least `need` seconds long. Returns join times."""
+    parts = []
+    for spec in specs:
+        bits = spec.split(":")
+        path = ROOT / bits[0]
+        start = float(bits[1]) if len(bits) > 1 else (single_start if len(specs) == 1 else 0.0)
+        end = float(bits[2]) if len(bits) > 2 else duration(path) - 0.05
+        parts.append((path, start, end))
+    total = sum(e - s for _, s, e in parts)
+    if total < need:
+        print(f"    note: base footage {total:.1f}s is shorter than speech {need:.1f}s; Sync will bounce it")
+    inputs, chains = [], []
+    for i, (p, s, e) in enumerate(parts):
+        inputs += ["-i", str(p)]
+        chains.append(f"[{i}:v]trim={s}:{e},setpts=PTS-STARTPTS,fps=30,scale=720:1280,setsar=1[v{i}]")
+    graph = ";".join(chains) + ";" + "".join(f"[v{i}]" for i in range(len(parts))) + f"concat=n={len(parts)}:v=1:a=0[v]"
+    run(["ffmpeg", "-v", "error", "-y", *inputs, "-filter_complex", graph, "-map", "[v]", "-t", f"{min(need, total):.2f}",
+         "-c:v", "libx264", "-crf", "18", "-pix_fmt", "yuv420p", str(dest)])
+    joins, t = [], 0.0
+    for _, s, e in parts[:-1]:
+        t += e - s
+        if t < need:
+            joins.append(round(t, 2))
+    return joins
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--name", required=True)
     ap.add_argument("--script", required=True, help="text file with the script")
     ap.add_argument("--hook", required=True)
     ap.add_argument("--cta", default="Follow for more.")
-    ap.add_argument("--base", default="public/source/clip3.mp4")
-    ap.add_argument("--base-start", type=float, default=0)
+    ap.add_argument("--base", nargs="+", default=["public/source/clip3.mp4"],
+                    help="one or more clips, each 'path' or 'path:start:end' (seconds); joined in order")
+    ap.add_argument("--base-start", type=float, default=0, help="start offset when a single clip is given")
+    ap.add_argument("--hook-seconds", type=float, default=3.5)
     ap.add_argument("--say", nargs="*", default=[], help='pronunciation fixes for the voice only, e.g. AREAi=Area-eye')
     ap.add_argument("--punch", type=float, nargs="*", default=None, help="seconds to punch in; default: start of the 2nd and last sentences")
     a = ap.parse_args()
@@ -125,16 +154,18 @@ def main():
 
     print("3/4 lip sync")
     base = work / "base.mp4"
-    run(["ffmpeg", "-v", "error", "-y", "-ss", str(a.base_start), "-t", f"{speech + 0.5:.2f}", "-i", str(ROOT / a.base),
-         "-an", "-c:v", "libx264", "-crf", "18", "-pix_fmt", "yuv420p", str(base)])
+    joins = build_base(a.base, a.base_start, speech + 0.5, base)
+    if joins:
+        print("    clips joined at", joins, "s (punch-ins added there to hide the cut)")
     lipsync(base, voice, footage)
 
     starts = [c["startMs"] / 1000 for i, c in enumerate(caps) if i > 0 and caps[i - 1].get("pageBreakAfter") and caps[i - 1]["text"].rstrip().endswith((".", "?", "!"))]
     punch = a.punch if a.punch is not None else ([starts[0], starts[-1]] if len(starts) >= 2 else starts)
+    punch = sorted(set([round(p, 2) for p in punch] + joins))
 
     print("4/4 render")
     props = {"videoSrc": f"source/{footage.name}", "captionsSrc": f"captions/{caps_path.name}", "footageSeconds": round(duration(footage), 2),
-             "hook": a.hook, "hookSeconds": 3.5, "cta": a.cta, "accent": "#FF4D5E", "punchIns": [round(p, 2) for p in punch]}
+             "hook": a.hook, "hookSeconds": a.hook_seconds, "cta": a.cta, "accent": "#FF4D5E", "punchIns": [round(p, 2) for p in punch]}
     (work / "props.json").write_text(json.dumps(props, indent=1))
     run(["npx", "remotion", "render", "ScriptVideo", f"out/{a.name}.mp4", f"--props={work / 'props.json'}"], cwd=ROOT)
     print(f"Done: out/{a.name}.mp4")
