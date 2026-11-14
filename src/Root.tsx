@@ -28,6 +28,24 @@ export const RemotionRoot: React.FC = () => {
             punchIns: [5.4, 33.1],
           }}
         />
+        <Composition
+          id="LipSyncTest1"
+          component={TalkingHead}
+          width={1080}
+          height={1920}
+          fps={30}
+          durationInFrames={530}
+          calculateMetadata={calculateTalkingHeadMetadata}
+          defaultProps={{
+            videoSrc: "source/test1-lipsync.mp4",
+            captionsSrc: "captions/test1.json",
+            hook: "Hard work won't scale your impact.",
+            hookSeconds: 3.5,
+            cta: "Build systems that outlast you. Follow for more.",
+            accent: "#FF4D5E",
+            punchIns: [7.06],
+          }}
+        />
       </Folder>
 
       {/* Earlier demo */}

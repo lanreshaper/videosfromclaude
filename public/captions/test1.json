@@ -1,0 +1,343 @@
+[
+ {
+  "text": " Here",
+  "startMs": 0,
+  "endMs": 260,
+  "timestampMs": 130,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 260,
+  "endMs": 400,
+  "timestampMs": 330,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 400,
+  "endMs": 580,
+  "timestampMs": 490,
+  "confidence": null
+ },
+ {
+  "text": " truth",
+  "startMs": 580,
+  "endMs": 720,
+  "timestampMs": 649,
+  "confidence": null
+ },
+ {
+  "text": " most",
+  "startMs": 720,
+  "endMs": 1200,
+  "timestampMs": 960,
+  "confidence": null
+ },
+ {
+  "text": " non-profit",
+  "startMs": 1200,
+  "endMs": 1740,
+  "timestampMs": 1339,
+  "confidence": null
+ },
+ {
+  "text": " leaders",
+  "startMs": 1740,
+  "endMs": 2100,
+  "timestampMs": 1920,
+  "confidence": null
+ },
+ {
+  "text": " don't",
+  "startMs": 2100,
+  "endMs": 2560,
+  "timestampMs": 2330,
+  "confidence": null
+ },
+ {
+  "text": " want",
+  "startMs": 2560,
+  "endMs": 2740,
+  "timestampMs": 2650,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 2740,
+  "endMs": 2880,
+  "timestampMs": 2810,
+  "confidence": null
+ },
+ {
+  "text": " hear.",
+  "startMs": 2880,
+  "endMs": 3080,
+  "timestampMs": 2980,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Your",
+  "startMs": 3680,
+  "endMs": 3840,
+  "timestampMs": 3760,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 3840,
+  "endMs": 4120,
+  "timestampMs": 3980,
+  "confidence": null
+ },
+ {
+  "text": " level",
+  "startMs": 4120,
+  "endMs": 4400,
+  "timestampMs": 4260,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 4400,
+  "endMs": 4580,
+  "timestampMs": 4490,
+  "confidence": null
+ },
+ {
+  "text": " impact",
+  "startMs": 4580,
+  "endMs": 4900,
+  "timestampMs": 4740,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 4900,
+  "endMs": 5140,
+  "timestampMs": 5020,
+  "confidence": null
+ },
+ {
+  "text": " not",
+  "startMs": 5140,
+  "endMs": 5400,
+  "timestampMs": 5270,
+  "confidence": null
+ },
+ {
+  "text": " come",
+  "startMs": 5400,
+  "endMs": 5640,
+  "timestampMs": 5520,
+  "confidence": null
+ },
+ {
+  "text": " from",
+  "startMs": 5640,
+  "endMs": 5820,
+  "timestampMs": 5730,
+  "confidence": null
+ },
+ {
+  "text": " working",
+  "startMs": 5820,
+  "endMs": 6120,
+  "timestampMs": 5970,
+  "confidence": null
+ },
+ {
+  "text": " harder.",
+  "startMs": 6120,
+  "endMs": 6500,
+  "timestampMs": 6310,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " It",
+  "startMs": 7060,
+  "endMs": 7220,
+  "timestampMs": 7140,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 7220,
+  "endMs": 7360,
+  "timestampMs": 7290,
+  "confidence": null
+ },
+ {
+  "text": " come",
+  "startMs": 7360,
+  "endMs": 7560,
+  "timestampMs": 7460,
+  "confidence": null
+ },
+ {
+  "text": " from",
+  "startMs": 7560,
+  "endMs": 7760,
+  "timestampMs": 7660,
+  "confidence": null
+ },
+ {
+  "text": " building",
+  "startMs": 7760,
+  "endMs": 8080,
+  "timestampMs": 7920,
+  "confidence": null
+ },
+ {
+  "text": " systems",
+  "startMs": 8080,
+  "endMs": 8520,
+  "timestampMs": 8300,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 8520,
+  "endMs": 8760,
+  "timestampMs": 8640,
+  "confidence": null
+ },
+ {
+  "text": " work",
+  "startMs": 8760,
+  "endMs": 9120,
+  "timestampMs": 8940,
+  "confidence": null
+ },
+ {
+  "text": " when",
+  "startMs": 9120,
+  "endMs": 9520,
+  "timestampMs": 9320,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 9520,
+  "endMs": 9640,
+  "timestampMs": 9580,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 9640,
+  "endMs": 9740,
+  "timestampMs": 9690,
+  "confidence": null
+ },
+ {
+  "text": " not",
+  "startMs": 9740,
+  "endMs": 10000,
+  "timestampMs": 9870,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 10000,
+  "endMs": 10240,
+  "timestampMs": 10120,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 10240,
+  "endMs": 10360,
+  "timestampMs": 10300,
+  "confidence": null
+ },
+ {
+  "text": " room.",
+  "startMs": 10360,
+  "endMs": 10560,
+  "timestampMs": 10460,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " At",
+  "startMs": 11440,
+  "endMs": 11520,
+  "timestampMs": 11480,
+  "confidence": null
+ },
+ {
+  "text": " Aid",
+  "startMs": 11520,
+  "endMs": 11720,
+  "timestampMs": 11620,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 11720,
+  "endMs": 11880,
+  "timestampMs": 11800,
+  "confidence": null
+ },
+ {
+  "text": " Rural",
+  "startMs": 11880,
+  "endMs": 12040,
+  "timestampMs": 11960,
+  "confidence": null
+ },
+ {
+  "text": " Education",
+  "startMs": 12040,
+  "endMs": 12380,
+  "timestampMs": 12210,
+  "confidence": null
+ },
+ {
+  "text": " Access",
+  "startMs": 12380,
+  "endMs": 12740,
+  "timestampMs": 12560,
+  "confidence": null
+ },
+ {
+  "text": " Initiative,",
+  "startMs": 12740,
+  "endMs": 13180,
+  "timestampMs": 12960,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " we",
+  "startMs": 13400,
+  "endMs": 13560,
+  "timestampMs": 13480,
+  "confidence": null
+ },
+ {
+  "text": " learnt",
+  "startMs": 13560,
+  "endMs": 13880,
+  "timestampMs": 13720,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 13880,
+  "endMs": 14220,
+  "timestampMs": 14050,
+  "confidence": null
+ },
+ {
+  "text": " early.",
+  "startMs": 14220,
+  "endMs": 14620,
+  "timestampMs": 14420,
+  "confidence": null,
+  "pageBreakAfter": true
+ }
+]

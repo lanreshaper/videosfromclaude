@@ -16,7 +16,7 @@ export type TalkingHeadProps = {
 };
 
 export const END_CARD_FRAMES = 75;
-const TAIL_SECONDS = 0.6; // keep a beat after the last word
+const TAIL_SECONDS = 0.25; // keep a beat after the last word (must not run past the footage)
 
 // Length = last spoken word + a short beat + the end card.
 export const calculateTalkingHeadMetadata: CalculateMetadataFunction<TalkingHeadProps> = async ({ props }) => {
