@@ -1,0 +1,742 @@
+[
+ {
+  "text": " You",
+  "startMs": 0,
+  "endMs": 900,
+  "timestampMs": 450,
+  "confidence": null
+ },
+ {
+  "text": " might",
+  "startMs": 900,
+  "endMs": 1060,
+  "timestampMs": 980,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 1060,
+  "endMs": 1180,
+  "timestampMs": 1120,
+  "confidence": null
+ },
+ {
+  "text": " had",
+  "startMs": 1180,
+  "endMs": 1420,
+  "timestampMs": 1299,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 1420,
+  "endMs": 1720,
+  "timestampMs": 1569,
+  "confidence": null
+ },
+ {
+  "text": " before",
+  "startMs": 1720,
+  "endMs": 2160,
+  "timestampMs": 1940,
+  "confidence": null
+ },
+ {
+  "text": " over",
+  "startMs": 2160,
+  "endMs": 2580,
+  "timestampMs": 2370,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 2580,
+  "endMs": 2820,
+  "timestampMs": 2700,
+  "confidence": null
+ },
+ {
+  "text": " over,",
+  "startMs": 2820,
+  "endMs": 3160,
+  "timestampMs": 2990,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " but",
+  "startMs": 3660,
+  "endMs": 3920,
+  "timestampMs": 3790,
+  "confidence": null
+ },
+ {
+  "text": " I",
+  "startMs": 3920,
+  "endMs": 4000,
+  "timestampMs": 3960,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 4000,
+  "endMs": 4100,
+  "timestampMs": 4050,
+  "confidence": null
+ },
+ {
+  "text": " say",
+  "startMs": 4100,
+  "endMs": 4360,
+  "timestampMs": 4230,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 4360,
+  "endMs": 4500,
+  "timestampMs": 4430,
+  "confidence": null
+ },
+ {
+  "text": " again,",
+  "startMs": 4500,
+  "endMs": 4840,
+  "timestampMs": 4670,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " data",
+  "startMs": 5440,
+  "endMs": 5520,
+  "timestampMs": 5480,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 5520,
+  "endMs": 6140,
+  "timestampMs": 5830,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 6140,
+  "endMs": 6280,
+  "timestampMs": 6210,
+  "confidence": null
+ },
+ {
+  "text": " new",
+  "startMs": 6280,
+  "endMs": 6460,
+  "timestampMs": 6370,
+  "confidence": null
+ },
+ {
+  "text": " oil.",
+  "startMs": 6460,
+  "endMs": 6700,
+  "timestampMs": 6580,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " In",
+  "startMs": 7460,
+  "endMs": 7620,
+  "timestampMs": 7540,
+  "confidence": null
+ },
+ {
+  "text": " 2019,",
+  "startMs": 7620,
+  "endMs": 8039,
+  "timestampMs": 7830,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " when",
+  "startMs": 8220,
+  "endMs": 8400,
+  "timestampMs": 8310,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 8400,
+  "endMs": 8520,
+  "timestampMs": 8460,
+  "confidence": null
+ },
+ {
+  "text": " designed",
+  "startMs": 8520,
+  "endMs": 8820,
+  "timestampMs": 8670,
+  "confidence": null
+ },
+ {
+  "text": " our",
+  "startMs": 8820,
+  "endMs": 9080,
+  "timestampMs": 8950,
+  "confidence": null
+ },
+ {
+  "text": " award-winning",
+  "startMs": 9080,
+  "endMs": 9780,
+  "timestampMs": 9240,
+  "confidence": null
+ },
+ {
+  "text": " foundational",
+  "startMs": 9780,
+  "endMs": 10500,
+  "timestampMs": 10140,
+  "confidence": null
+ },
+ {
+  "text": " learning",
+  "startMs": 10500,
+  "endMs": 10820,
+  "timestampMs": 10660,
+  "confidence": null
+ },
+ {
+  "text": " program,",
+  "startMs": 10820,
+  "endMs": 11400,
+  "timestampMs": 11110,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Caught",
+  "startMs": 11880,
+  "endMs": 11960,
+  "timestampMs": 11920,
+  "confidence": null
+ },
+ {
+  "text": " Fast",
+  "startMs": 11960,
+  "endMs": 12200,
+  "timestampMs": 12080,
+  "confidence": null
+ },
+ {
+  "text": " Track,",
+  "startMs": 12200,
+  "endMs": 12440,
+  "timestampMs": 12320,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " while",
+  "startMs": 13380,
+  "endMs": 13460,
+  "timestampMs": 13420,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 13460,
+  "endMs": 13620,
+  "timestampMs": 13540,
+  "confidence": null
+ },
+ {
+  "text": " were",
+  "startMs": 13620,
+  "endMs": 13740,
+  "timestampMs": 13680,
+  "confidence": null
+ },
+ {
+  "text": " obviously",
+  "startMs": 13740,
+  "endMs": 14140,
+  "timestampMs": 13940,
+  "confidence": null
+ },
+ {
+  "text": " focused",
+  "startMs": 14140,
+  "endMs": 14560,
+  "timestampMs": 14350,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 14560,
+  "endMs": 15060,
+  "timestampMs": 14810,
+  "confidence": null
+ },
+ {
+  "text": " impact,",
+  "startMs": 15060,
+  "endMs": 15440,
+  "timestampMs": 15250,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " I",
+  "startMs": 16079,
+  "endMs": 16239,
+  "timestampMs": 16159,
+  "confidence": null
+ },
+ {
+  "text": " was",
+  "startMs": 16239,
+  "endMs": 16379,
+  "timestampMs": 16309,
+  "confidence": null
+ },
+ {
+  "text": " also",
+  "startMs": 16379,
+  "endMs": 16700,
+  "timestampMs": 16540,
+  "confidence": null
+ },
+ {
+  "text": " very",
+  "startMs": 16700,
+  "endMs": 16880,
+  "timestampMs": 16790,
+  "confidence": null
+ },
+ {
+  "text": " much",
+  "startMs": 16880,
+  "endMs": 17120,
+  "timestampMs": 17000,
+  "confidence": null
+ },
+ {
+  "text": " keen",
+  "startMs": 17120,
+  "endMs": 17380,
+  "timestampMs": 17250,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 17380,
+  "endMs": 17580,
+  "timestampMs": 17479,
+  "confidence": null
+ },
+ {
+  "text": " how",
+  "startMs": 17580,
+  "endMs": 17840,
+  "timestampMs": 17710,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 17840,
+  "endMs": 18140,
+  "timestampMs": 17990,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 18140,
+  "endMs": 18400,
+  "timestampMs": 18270,
+  "confidence": null
+ },
+ {
+  "text": " develop",
+  "startMs": 18400,
+  "endMs": 18760,
+  "timestampMs": 18580,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 18760,
+  "endMs": 19600,
+  "timestampMs": 19180,
+  "confidence": null
+ },
+ {
+  "text": " preserve",
+  "startMs": 19600,
+  "endMs": 20080,
+  "timestampMs": 19840,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 20080,
+  "endMs": 20320,
+  "timestampMs": 20200,
+  "confidence": null
+ },
+ {
+  "text": " institutional",
+  "startMs": 20320,
+  "endMs": 20800,
+  "timestampMs": 20560,
+  "confidence": null
+ },
+ {
+  "text": " knowledge",
+  "startMs": 20800,
+  "endMs": 21400,
+  "timestampMs": 21100,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 21400,
+  "endMs": 21660,
+  "timestampMs": 21530,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 21660,
+  "endMs": 21820,
+  "timestampMs": 21740,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 21820,
+  "endMs": 22220,
+  "timestampMs": 22020,
+  "confidence": null
+ },
+ {
+  "text": " as",
+  "startMs": 22220,
+  "endMs": 22980,
+  "timestampMs": 22600,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 22980,
+  "endMs": 23300,
+  "timestampMs": 23140,
+  "confidence": null
+ },
+ {
+  "text": " infrastructure",
+  "startMs": 23300,
+  "endMs": 23860,
+  "timestampMs": 23580,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 23860,
+  "endMs": 24360,
+  "timestampMs": 24110,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 24360,
+  "endMs": 24500,
+  "timestampMs": 24430,
+  "confidence": null
+ },
+ {
+  "text": " power",
+  "startMs": 24500,
+  "endMs": 24860,
+  "timestampMs": 24680,
+  "confidence": null
+ },
+ {
+  "text": " our",
+  "startMs": 24860,
+  "endMs": 25140,
+  "timestampMs": 25000,
+  "confidence": null
+ },
+ {
+  "text": " reach",
+  "startMs": 25140,
+  "endMs": 25380,
+  "timestampMs": 25259,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 25380,
+  "endMs": 25600,
+  "timestampMs": 25490,
+  "confidence": null
+ },
+ {
+  "text": " scale",
+  "startMs": 25600,
+  "endMs": 25920,
+  "timestampMs": 25760,
+  "confidence": null
+ },
+ {
+  "text": " over",
+  "startMs": 25920,
+  "endMs": 26620,
+  "timestampMs": 26270,
+  "confidence": null
+ },
+ {
+  "text": " time.",
+  "startMs": 26620,
+  "endMs": 26900,
+  "timestampMs": 26759,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " So",
+  "startMs": 27530,
+  "endMs": 27860,
+  "timestampMs": 27695,
+  "confidence": null
+ },
+ {
+  "text": " I",
+  "startMs": 27860,
+  "endMs": 28160,
+  "timestampMs": 28009,
+  "confidence": null
+ },
+ {
+  "text": " started",
+  "startMs": 28160,
+  "endMs": 28460,
+  "timestampMs": 28310,
+  "confidence": null
+ },
+ {
+  "text": " studying",
+  "startMs": 28460,
+  "endMs": 28840,
+  "timestampMs": 28650,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 28840,
+  "endMs": 29080,
+  "timestampMs": 28960,
+  "confidence": null
+ },
+ {
+  "text": " Stanford",
+  "startMs": 29080,
+  "endMs": 29420,
+  "timestampMs": 29250,
+  "confidence": null
+ },
+ {
+  "text": " Social",
+  "startMs": 29420,
+  "endMs": 29720,
+  "timestampMs": 29570,
+  "confidence": null
+ },
+ {
+  "text": " Innovation",
+  "startMs": 29720,
+  "endMs": 30180,
+  "timestampMs": 29950,
+  "confidence": null
+ },
+ {
+  "text": " Review,",
+  "startMs": 30180,
+  "endMs": 30620,
+  "timestampMs": 30400,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " and",
+  "startMs": 31060,
+  "endMs": 31440,
+  "timestampMs": 31250,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 31440,
+  "endMs": 31560,
+  "timestampMs": 31500,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 31560,
+  "endMs": 31680,
+  "timestampMs": 31619,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 31680,
+  "endMs": 31780,
+  "timestampMs": 31730,
+  "confidence": null
+ },
+ {
+  "text": " I",
+  "startMs": 31780,
+  "endMs": 31900,
+  "timestampMs": 31840,
+  "confidence": null
+ },
+ {
+  "text": " found.",
+  "startMs": 31900,
+  "endMs": 32200,
+  "timestampMs": 32049,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " All",
+  "startMs": 33160,
+  "endMs": 33260,
+  "timestampMs": 33209,
+  "confidence": null
+ },
+ {
+  "text": " blue",
+  "startMs": 33260,
+  "endMs": 33520,
+  "timestampMs": 33390,
+  "confidence": null
+ },
+ {
+  "text": " unicorns",
+  "startMs": 33520,
+  "endMs": 34020,
+  "timestampMs": 33770,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 34020,
+  "endMs": 34500,
+  "timestampMs": 34260,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 34500,
+  "endMs": 34620,
+  "timestampMs": 34560,
+  "confidence": null
+ },
+ {
+  "text": " non-profit",
+  "startMs": 34620,
+  "endMs": 34960,
+  "timestampMs": 34700,
+  "confidence": null
+ },
+ {
+  "text": " space",
+  "startMs": 34960,
+  "endMs": 35400,
+  "timestampMs": 35180,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 35400,
+  "endMs": 35640,
+  "timestampMs": 35519,
+  "confidence": null
+ },
+ {
+  "text": " scale",
+  "startMs": 35640,
+  "endMs": 35940,
+  "timestampMs": 35790,
+  "confidence": null
+ },
+ {
+  "text": " well",
+  "startMs": 35940,
+  "endMs": 36260,
+  "timestampMs": 36099,
+  "confidence": null
+ },
+ {
+  "text": " share",
+  "startMs": 36260,
+  "endMs": 37000,
+  "timestampMs": 36629,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 37000,
+  "endMs": 37260,
+  "timestampMs": 37129,
+  "confidence": null
+ },
+ {
+  "text": " underrated",
+  "startMs": 37260,
+  "endMs": 37660,
+  "timestampMs": 37459,
+  "confidence": null
+ },
+ {
+  "text": " habit.",
+  "startMs": 37660,
+  "endMs": 38160,
+  "timestampMs": 37910,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " They",
+  "startMs": 38520,
+  "endMs": 38940,
+  "timestampMs": 38730,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 38940,
+  "endMs": 39100,
+  "timestampMs": 39019,
+  "confidence": null
+ },
+ {
+  "text": " obsessive",
+  "startMs": 39100,
+  "endMs": 39600,
+  "timestampMs": 39350,
+  "confidence": null
+ },
+ {
+  "text": " documenters.",
+  "startMs": 39600,
+  "endMs": 40480,
+  "timestampMs": 40040,
+  "confidence": null,
+  "pageBreakAfter": true
+ }
+]
