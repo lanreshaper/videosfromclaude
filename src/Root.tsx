@@ -37,13 +37,14 @@ export const RemotionRoot: React.FC = () => {
           durationInFrames={530}
           calculateMetadata={calculateTalkingHeadMetadata}
           defaultProps={{
-            videoSrc: "source/test1-lipsync.mp4",
-            captionsSrc: "captions/test1.json",
+            videoSrc: "source/lipsync-A-sync3.mp4",
+            captionsSrc: "captions/test1-full.json",
+            footageSeconds: 23.86,
             hook: "Hard work won't scale your impact.",
             hookSeconds: 3.5,
             cta: "Build systems that outlast you. Follow for more.",
             accent: "#FF4D5E",
-            punchIns: [7.06],
+            punchIns: [7.06, 19.7],
           }}
         />
       </Folder>

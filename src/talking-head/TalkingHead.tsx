@@ -13,6 +13,7 @@ export type TalkingHeadProps = {
   cta: string; // end card text
   accent: string; // brand highlight colour
   punchIns: number[]; // seconds where the camera "punches in" for emphasis
+  footageSeconds?: number; // length of the footage, so the video never runs past it
 };
 
 export const END_CARD_FRAMES = 75;
@@ -23,7 +24,8 @@ export const calculateTalkingHeadMetadata: CalculateMetadataFunction<TalkingHead
   const captions: Caption[] = await fetch(staticFile(props.captionsSrc)).then((r) => r.json());
   const lastMs = captions[captions.length - 1].endMs;
   const fps = 30;
-  return { fps, durationInFrames: Math.ceil((lastMs / 1000 + TAIL_SECONDS) * fps) + END_CARD_FRAMES };
+  const speechEnd = Math.min(lastMs / 1000 + TAIL_SECONDS, props.footageSeconds ?? Infinity);
+  return { fps, durationInFrames: Math.floor(speechEnd * fps) + END_CARD_FRAMES };
 };
 
 const usePunchInScale = (punchIns: number[]) => {
