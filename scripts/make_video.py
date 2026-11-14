@@ -46,7 +46,7 @@ def word_timings(audio):
 
 
 def norm(w):
-    return re.sub(r"[^a-z0-9']", "", w.lower())
+    return re.sub(r"[^a-z0-9]", "", w.lower())
 
 
 def align(script, heard):
@@ -68,7 +68,7 @@ def align(script, heard):
     caps = []
     for w, (s, e) in zip(spoken, times):
         c = {"text": " " + w, "startMs": int(s * 1000), "endMs": int(e * 1000), "timestampMs": int((s + e) * 500), "confidence": None}
-        if w.endswith((".", ",", "?", "!", ":", ";")):
+        if w.rstrip("”’\"'").endswith((".", ",", "?", "!", ":", ";")):
             c["pageBreakAfter"] = True
         caps.append(c)
     return caps
@@ -101,6 +101,7 @@ def main():
     ap.add_argument("--cta", default="Follow for more.")
     ap.add_argument("--base", default="public/source/clip3.mp4")
     ap.add_argument("--base-start", type=float, default=0)
+    ap.add_argument("--say", nargs="*", default=[], help='pronunciation fixes for the voice only, e.g. AREAi=Area-eye')
     ap.add_argument("--punch", type=float, nargs="*", default=None, help="seconds to punch in; default: start of the 2nd and last sentences")
     a = ap.parse_args()
 
@@ -111,7 +112,11 @@ def main():
     caps_path = ROOT / "public/captions" / f"{a.name}.json"
     footage = ROOT / "public/source" / f"{a.name}-lipsync.mp4"
 
-    print("1/4 voice"); tts(script, voice)
+    spoken = script
+    for pair in a.say:
+        k, v = pair.split("=", 1)
+        spoken = spoken.replace(k, v)
+    print("1/4 voice"); tts(spoken, voice)
     speech = duration(voice)
     print(f"    {speech:.1f}s")
 

@@ -1,0 +1,1935 @@
+[
+ {
+  "text": " Let",
+  "startMs": 0,
+  "endMs": 200,
+  "timestampMs": 100,
+  "confidence": null
+ },
+ {
+  "text": " me",
+  "startMs": 200,
+  "endMs": 340,
+  "timestampMs": 270,
+  "confidence": null
+ },
+ {
+  "text": " ask",
+  "startMs": 340,
+  "endMs": 560,
+  "timestampMs": 450,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 560,
+  "endMs": 700,
+  "timestampMs": 630,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 700,
+  "endMs": 800,
+  "timestampMs": 750,
+  "confidence": null
+ },
+ {
+  "text": " question.",
+  "startMs": 800,
+  "endMs": 1180,
+  "timestampMs": 990,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " If",
+  "startMs": 1660,
+  "endMs": 1660,
+  "timestampMs": 1660,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 1660,
+  "endMs": 1800,
+  "timestampMs": 1730,
+  "confidence": null
+ },
+ {
+  "text": " took",
+  "startMs": 1800,
+  "endMs": 1980,
+  "timestampMs": 1890,
+  "confidence": null
+ },
+ {
+  "text": " two",
+  "startMs": 1980,
+  "endMs": 2220,
+  "timestampMs": 2100,
+  "confidence": null
+ },
+ {
+  "text": " weeks",
+  "startMs": 2220,
+  "endMs": 2400,
+  "timestampMs": 2310,
+  "confidence": null
+ },
+ {
+  "text": " off",
+  "startMs": 2400,
+  "endMs": 2680,
+  "timestampMs": 2540,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 2680,
+  "endMs": 2980,
+  "timestampMs": 2830,
+  "confidence": null
+ },
+ {
+  "text": " switched",
+  "startMs": 2980,
+  "endMs": 3260,
+  "timestampMs": 3120,
+  "confidence": null
+ },
+ {
+  "text": " off",
+  "startMs": 3260,
+  "endMs": 3500,
+  "timestampMs": 3380,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 3500,
+  "endMs": 3660,
+  "timestampMs": 3580,
+  "confidence": null
+ },
+ {
+  "text": " phone,",
+  "startMs": 3660,
+  "endMs": 3900,
+  "timestampMs": 3780,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " what",
+  "startMs": 4340,
+  "endMs": 4540,
+  "timestampMs": 4439,
+  "confidence": null
+ },
+ {
+  "text": " would",
+  "startMs": 4540,
+  "endMs": 4760,
+  "timestampMs": 4650,
+  "confidence": null
+ },
+ {
+  "text": " stop",
+  "startMs": 4760,
+  "endMs": 5040,
+  "timestampMs": 4900,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 5040,
+  "endMs": 5240,
+  "timestampMs": 5140,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 5240,
+  "endMs": 5380,
+  "timestampMs": 5310,
+  "confidence": null
+ },
+ {
+  "text": " organisation?",
+  "startMs": 5380,
+  "endMs": 5970,
+  "timestampMs": 5675,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " I\u2019m",
+  "startMs": 6560,
+  "endMs": 6700,
+  "timestampMs": 6630,
+  "confidence": null
+ },
+ {
+  "text": " asking",
+  "startMs": 6700,
+  "endMs": 7100,
+  "timestampMs": 6900,
+  "confidence": null
+ },
+ {
+  "text": " because",
+  "startMs": 7100,
+  "endMs": 7680,
+  "timestampMs": 7390,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 7680,
+  "endMs": 7980,
+  "timestampMs": 7830,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 7980,
+  "endMs": 8100,
+  "timestampMs": 8039,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 8100,
+  "endMs": 8240,
+  "timestampMs": 8170,
+  "confidence": null
+ },
+ {
+  "text": " things",
+  "startMs": 8240,
+  "endMs": 8460,
+  "timestampMs": 8350,
+  "confidence": null
+ },
+ {
+  "text": " I\u2019ve",
+  "startMs": 8460,
+  "endMs": 8660,
+  "timestampMs": 8560,
+  "confidence": null
+ },
+ {
+  "text": " had",
+  "startMs": 8660,
+  "endMs": 8840,
+  "timestampMs": 8750,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 8840,
+  "endMs": 9000,
+  "timestampMs": 8920,
+  "confidence": null
+ },
+ {
+  "text": " learn",
+  "startMs": 9000,
+  "endMs": 9200,
+  "timestampMs": 9100,
+  "confidence": null
+ },
+ {
+  "text": " while",
+  "startMs": 9200,
+  "endMs": 9520,
+  "timestampMs": 9360,
+  "confidence": null
+ },
+ {
+  "text": " building",
+  "startMs": 9520,
+  "endMs": 9900,
+  "timestampMs": 9710,
+  "confidence": null
+ },
+ {
+  "text": " AREAi",
+  "startMs": 9900,
+  "endMs": 10190,
+  "timestampMs": 10045,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 10480,
+  "endMs": 11000,
+  "timestampMs": 10740,
+  "confidence": null
+ },
+ {
+  "text": " how",
+  "startMs": 11000,
+  "endMs": 11280,
+  "timestampMs": 11140,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 11280,
+  "endMs": 11440,
+  "timestampMs": 11360,
+  "confidence": null
+ },
+ {
+  "text": " develop",
+  "startMs": 11440,
+  "endMs": 11760,
+  "timestampMs": 11600,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 11760,
+  "endMs": 11980,
+  "timestampMs": 11870,
+  "confidence": null
+ },
+ {
+  "text": " team",
+  "startMs": 11980,
+  "endMs": 12300,
+  "timestampMs": 12140,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 12300,
+  "endMs": 12520,
+  "timestampMs": 12410,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 12520,
+  "endMs": 12680,
+  "timestampMs": 12600,
+  "confidence": null
+ },
+ {
+  "text": " make",
+  "startMs": 12680,
+  "endMs": 12920,
+  "timestampMs": 12800,
+  "confidence": null
+ },
+ {
+  "text": " good",
+  "startMs": 12920,
+  "endMs": 13240,
+  "timestampMs": 13080,
+  "confidence": null
+ },
+ {
+  "text": " decisions",
+  "startMs": 13240,
+  "endMs": 13700,
+  "timestampMs": 13469,
+  "confidence": null
+ },
+ {
+  "text": " when",
+  "startMs": 13700,
+  "endMs": 14220,
+  "timestampMs": 13960,
+  "confidence": null
+ },
+ {
+  "text": " I\u2019m",
+  "startMs": 14220,
+  "endMs": 14380,
+  "timestampMs": 14300,
+  "confidence": null
+ },
+ {
+  "text": " outside",
+  "startMs": 14380,
+  "endMs": 14740,
+  "timestampMs": 14560,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 14740,
+  "endMs": 14940,
+  "timestampMs": 14840,
+  "confidence": null
+ },
+ {
+  "text": " room.",
+  "startMs": 14940,
+  "endMs": 15140,
+  "timestampMs": 15040,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " And",
+  "startMs": 15700,
+  "endMs": 15940,
+  "timestampMs": 15820,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 15940,
+  "endMs": 16200,
+  "timestampMs": 16070,
+  "confidence": null
+ },
+ {
+  "text": " takes",
+  "startMs": 16200,
+  "endMs": 16420,
+  "timestampMs": 16310,
+  "confidence": null
+ },
+ {
+  "text": " some",
+  "startMs": 16420,
+  "endMs": 16640,
+  "timestampMs": 16530,
+  "confidence": null
+ },
+ {
+  "text": " deliberate",
+  "startMs": 16640,
+  "endMs": 17040,
+  "timestampMs": 16840,
+  "confidence": null
+ },
+ {
+  "text": " work",
+  "startMs": 17040,
+  "endMs": 17460,
+  "timestampMs": 17250,
+  "confidence": null
+ },
+ {
+  "text": " from",
+  "startMs": 17460,
+  "endMs": 17700,
+  "timestampMs": 17580,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 17700,
+  "endMs": 18040,
+  "timestampMs": 17869,
+  "confidence": null
+ },
+ {
+  "text": " as",
+  "startMs": 18040,
+  "endMs": 18320,
+  "timestampMs": 18180,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 18320,
+  "endMs": 18500,
+  "timestampMs": 18410,
+  "confidence": null
+ },
+ {
+  "text": " founder.",
+  "startMs": 18500,
+  "endMs": 18720,
+  "timestampMs": 18610,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Let",
+  "startMs": 19520,
+  "endMs": 19660,
+  "timestampMs": 19590,
+  "confidence": null
+ },
+ {
+  "text": " me",
+  "startMs": 19660,
+  "endMs": 19780,
+  "timestampMs": 19720,
+  "confidence": null
+ },
+ {
+  "text": " give",
+  "startMs": 19780,
+  "endMs": 19900,
+  "timestampMs": 19840,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 19900,
+  "endMs": 20020,
+  "timestampMs": 19960,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 20020,
+  "endMs": 20140,
+  "timestampMs": 20080,
+  "confidence": null
+ },
+ {
+  "text": " simple",
+  "startMs": 20140,
+  "endMs": 20420,
+  "timestampMs": 20280,
+  "confidence": null
+ },
+ {
+  "text": " example.",
+  "startMs": 20420,
+  "endMs": 20820,
+  "timestampMs": 20620,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Your",
+  "startMs": 21620,
+  "endMs": 21740,
+  "timestampMs": 21680,
+  "confidence": null
+ },
+ {
+  "text": " programme",
+  "startMs": 21740,
+  "endMs": 21930,
+  "timestampMs": 21835,
+  "confidence": null
+ },
+ {
+  "text": " officer",
+  "startMs": 22120,
+  "endMs": 22480,
+  "timestampMs": 22300,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 22480,
+  "endMs": 22780,
+  "timestampMs": 22630,
+  "confidence": null
+ },
+ {
+  "text": " organising",
+  "startMs": 22780,
+  "endMs": 22990,
+  "timestampMs": 22885,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 23200,
+  "endMs": 23520,
+  "timestampMs": 23360,
+  "confidence": null
+ },
+ {
+  "text": " school",
+  "startMs": 23520,
+  "endMs": 23760,
+  "timestampMs": 23640,
+  "confidence": null
+ },
+ {
+  "text": " visit.",
+  "startMs": 23760,
+  "endMs": 24060,
+  "timestampMs": 23910,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " The",
+  "startMs": 24620,
+  "endMs": 24760,
+  "timestampMs": 24690,
+  "confidence": null
+ },
+ {
+  "text": " school",
+  "startMs": 24760,
+  "endMs": 25060,
+  "timestampMs": 24910,
+  "confidence": null
+ },
+ {
+  "text": " has",
+  "startMs": 25060,
+  "endMs": 25240,
+  "timestampMs": 25150,
+  "confidence": null
+ },
+ {
+  "text": " approved",
+  "startMs": 25240,
+  "endMs": 25600,
+  "timestampMs": 25420,
+  "confidence": null
+ },
+ {
+  "text": " it,",
+  "startMs": 25600,
+  "endMs": 25880,
+  "timestampMs": 25740,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " the",
+  "startMs": 26180,
+  "endMs": 26380,
+  "timestampMs": 26280,
+  "confidence": null
+ },
+ {
+  "text": " money",
+  "startMs": 26380,
+  "endMs": 26640,
+  "timestampMs": 26509,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 26640,
+  "endMs": 26840,
+  "timestampMs": 26740,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 26840,
+  "endMs": 26940,
+  "timestampMs": 26890,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 26940,
+  "endMs": 27060,
+  "timestampMs": 27000,
+  "confidence": null
+ },
+ {
+  "text": " budget,",
+  "startMs": 27060,
+  "endMs": 27300,
+  "timestampMs": 27180,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " and",
+  "startMs": 27580,
+  "endMs": 27840,
+  "timestampMs": 27710,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 27840,
+  "endMs": 27960,
+  "timestampMs": 27900,
+  "confidence": null
+ },
+ {
+  "text": " team",
+  "startMs": 27960,
+  "endMs": 28200,
+  "timestampMs": 28080,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 28200,
+  "endMs": 28340,
+  "timestampMs": 28270,
+  "confidence": null
+ },
+ {
+  "text": " available.",
+  "startMs": 28340,
+  "endMs": 28640,
+  "timestampMs": 28490,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " But",
+  "startMs": 29180,
+  "endMs": 29440,
+  "timestampMs": 29310,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 29440,
+  "endMs": 29620,
+  "timestampMs": 29530,
+  "confidence": null
+ },
+ {
+  "text": " officer",
+  "startMs": 29620,
+  "endMs": 29960,
+  "timestampMs": 29790,
+  "confidence": null
+ },
+ {
+  "text": " still",
+  "startMs": 29960,
+  "endMs": 30380,
+  "timestampMs": 30170,
+  "confidence": null
+ },
+ {
+  "text": " sends",
+  "startMs": 30380,
+  "endMs": 30740,
+  "timestampMs": 30560,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 30740,
+  "endMs": 30940,
+  "timestampMs": 30840,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 30940,
+  "endMs": 31100,
+  "timestampMs": 31020,
+  "confidence": null
+ },
+ {
+  "text": " message.",
+  "startMs": 31100,
+  "endMs": 31480,
+  "timestampMs": 31290,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " \u201cSir,",
+  "startMs": 32200,
+  "endMs": 32240,
+  "timestampMs": 32220,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " should",
+  "startMs": 32520,
+  "endMs": 32680,
+  "timestampMs": 32600,
+  "confidence": null
+ },
+ {
+  "text": " I",
+  "startMs": 32680,
+  "endMs": 32840,
+  "timestampMs": 32760,
+  "confidence": null
+ },
+ {
+  "text": " confirm",
+  "startMs": 32840,
+  "endMs": 33160,
+  "timestampMs": 33000,
+  "confidence": null
+ },
+ {
+  "text": " Thursday?\u201d",
+  "startMs": 33160,
+  "endMs": 33560,
+  "timestampMs": 33360,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Now,",
+  "startMs": 34520,
+  "endMs": 34700,
+  "timestampMs": 34610,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " if",
+  "startMs": 34960,
+  "endMs": 35060,
+  "timestampMs": 35010,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 35060,
+  "endMs": 35180,
+  "timestampMs": 35120,
+  "confidence": null
+ },
+ {
+  "text": " get",
+  "startMs": 35180,
+  "endMs": 35420,
+  "timestampMs": 35300,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 35420,
+  "endMs": 35660,
+  "timestampMs": 35540,
+  "confidence": null
+ },
+ {
+  "text": " message",
+  "startMs": 35660,
+  "endMs": 36000,
+  "timestampMs": 35830,
+  "confidence": null
+ },
+ {
+  "text": " every",
+  "startMs": 36000,
+  "endMs": 36500,
+  "timestampMs": 36250,
+  "confidence": null
+ },
+ {
+  "text": " single",
+  "startMs": 36500,
+  "endMs": 36840,
+  "timestampMs": 36670,
+  "confidence": null
+ },
+ {
+  "text": " week,",
+  "startMs": 36840,
+  "endMs": 37220,
+  "timestampMs": 37030,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " ask",
+  "startMs": 37620,
+  "endMs": 37880,
+  "timestampMs": 37750,
+  "confidence": null
+ },
+ {
+  "text": " yourself",
+  "startMs": 37880,
+  "endMs": 38260,
+  "timestampMs": 38070,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 38260,
+  "endMs": 38620,
+  "timestampMs": 38440,
+  "confidence": null
+ },
+ {
+  "text": " you\u2019ve",
+  "startMs": 38620,
+  "endMs": 38900,
+  "timestampMs": 38760,
+  "confidence": null
+ },
+ {
+  "text": " actually",
+  "startMs": 38900,
+  "endMs": 39280,
+  "timestampMs": 39090,
+  "confidence": null
+ },
+ {
+  "text": " handed",
+  "startMs": 39280,
+  "endMs": 39580,
+  "timestampMs": 39430,
+  "confidence": null
+ },
+ {
+  "text": " over.",
+  "startMs": 39580,
+  "endMs": 39980,
+  "timestampMs": 39780,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Your",
+  "startMs": 40680,
+  "endMs": 40840,
+  "timestampMs": 40760,
+  "confidence": null
+ },
+ {
+  "text": " team",
+  "startMs": 40840,
+  "endMs": 41120,
+  "timestampMs": 40980,
+  "confidence": null
+ },
+ {
+  "text": " member",
+  "startMs": 41120,
+  "endMs": 41360,
+  "timestampMs": 41239,
+  "confidence": null
+ },
+ {
+  "text": " has",
+  "startMs": 41360,
+  "endMs": 41660,
+  "timestampMs": 41510,
+  "confidence": null
+ },
+ {
+  "text": " done",
+  "startMs": 41660,
+  "endMs": 41880,
+  "timestampMs": 41769,
+  "confidence": null
+ },
+ {
+  "text": " all",
+  "startMs": 41880,
+  "endMs": 42260,
+  "timestampMs": 42070,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 42260,
+  "endMs": 42440,
+  "timestampMs": 42349,
+  "confidence": null
+ },
+ {
+  "text": " coordination.",
+  "startMs": 42440,
+  "endMs": 42840,
+  "timestampMs": 42640,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " You",
+  "startMs": 43420,
+  "endMs": 43720,
+  "timestampMs": 43570,
+  "confidence": null
+ },
+ {
+  "text": " still",
+  "startMs": 43720,
+  "endMs": 44000,
+  "timestampMs": 43860,
+  "confidence": null
+ },
+ {
+  "text": " hold",
+  "startMs": 44000,
+  "endMs": 44300,
+  "timestampMs": 44150,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 44300,
+  "endMs": 44460,
+  "timestampMs": 44379,
+  "confidence": null
+ },
+ {
+  "text": " decision.",
+  "startMs": 44460,
+  "endMs": 44720,
+  "timestampMs": 44590,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " So",
+  "startMs": 45400,
+  "endMs": 45600,
+  "timestampMs": 45500,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 45600,
+  "endMs": 45780,
+  "timestampMs": 45690,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 45780,
+  "endMs": 46000,
+  "timestampMs": 45890,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 46000,
+  "endMs": 46160,
+  "timestampMs": 46080,
+  "confidence": null
+ },
+ {
+  "text": " do",
+  "startMs": 46160,
+  "endMs": 46340,
+  "timestampMs": 46250,
+  "confidence": null
+ },
+ {
+  "text": " differently?",
+  "startMs": 46340,
+  "endMs": 46660,
+  "timestampMs": 46500,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Tell",
+  "startMs": 47480,
+  "endMs": 47660,
+  "timestampMs": 47569,
+  "confidence": null
+ },
+ {
+  "text": " them,",
+  "startMs": 47660,
+  "endMs": 47920,
+  "timestampMs": 47790,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " \u201cOnce",
+  "startMs": 48560,
+  "endMs": 48700,
+  "timestampMs": 48630,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 48700,
+  "endMs": 48920,
+  "timestampMs": 48810,
+  "confidence": null
+ },
+ {
+  "text": " school",
+  "startMs": 48920,
+  "endMs": 49180,
+  "timestampMs": 49050,
+  "confidence": null
+ },
+ {
+  "text": " has",
+  "startMs": 49180,
+  "endMs": 49340,
+  "timestampMs": 49260,
+  "confidence": null
+ },
+ {
+  "text": " approved",
+  "startMs": 49340,
+  "endMs": 49740,
+  "timestampMs": 49540,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 49740,
+  "endMs": 49960,
+  "timestampMs": 49850,
+  "confidence": null
+ },
+ {
+  "text": " visit",
+  "startMs": 49960,
+  "endMs": 50090,
+  "timestampMs": 50025,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 50220,
+  "endMs": 50560,
+  "timestampMs": 50390,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 50560,
+  "endMs": 50700,
+  "timestampMs": 50630,
+  "confidence": null
+ },
+ {
+  "text": " cost",
+  "startMs": 50700,
+  "endMs": 50960,
+  "timestampMs": 50830,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 50960,
+  "endMs": 51160,
+  "timestampMs": 51060,
+  "confidence": null
+ },
+ {
+  "text": " within",
+  "startMs": 51160,
+  "endMs": 51460,
+  "timestampMs": 51310,
+  "confidence": null
+ },
+ {
+  "text": " budget,",
+  "startMs": 51460,
+  "endMs": 51700,
+  "timestampMs": 51580,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " you",
+  "startMs": 52180,
+  "endMs": 52340,
+  "timestampMs": 52260,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 52340,
+  "endMs": 52500,
+  "timestampMs": 52420,
+  "confidence": null
+ },
+ {
+  "text": " confirm",
+  "startMs": 52500,
+  "endMs": 52860,
+  "timestampMs": 52680,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 52860,
+  "endMs": 53040,
+  "timestampMs": 52950,
+  "confidence": null
+ },
+ {
+  "text": " date.",
+  "startMs": 53040,
+  "endMs": 53440,
+  "timestampMs": 53239,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Put",
+  "startMs": 53840,
+  "endMs": 54060,
+  "timestampMs": 53950,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 54060,
+  "endMs": 54220,
+  "timestampMs": 54140,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 54220,
+  "endMs": 54400,
+  "timestampMs": 54310,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 54400,
+  "endMs": 54520,
+  "timestampMs": 54460,
+  "confidence": null
+ },
+ {
+  "text": " team",
+  "startMs": 54520,
+  "endMs": 54740,
+  "timestampMs": 54630,
+  "confidence": null
+ },
+ {
+  "text": " calendar.",
+  "startMs": 54740,
+  "endMs": 55040,
+  "timestampMs": 54890,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " If",
+  "startMs": 55660,
+  "endMs": 55880,
+  "timestampMs": 55769,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 55880,
+  "endMs": 56040,
+  "timestampMs": 55960,
+  "confidence": null
+ },
+ {
+  "text": " school",
+  "startMs": 56040,
+  "endMs": 56300,
+  "timestampMs": 56170,
+  "confidence": null
+ },
+ {
+  "text": " asks",
+  "startMs": 56300,
+  "endMs": 56680,
+  "timestampMs": 56489,
+  "confidence": null
+ },
+ {
+  "text": " us",
+  "startMs": 56680,
+  "endMs": 56900,
+  "timestampMs": 56790,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 56900,
+  "endMs": 57060,
+  "timestampMs": 56980,
+  "confidence": null
+ },
+ {
+  "text": " take",
+  "startMs": 57060,
+  "endMs": 57220,
+  "timestampMs": 57140,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 57220,
+  "endMs": 57380,
+  "timestampMs": 57300,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 57380,
+  "endMs": 57500,
+  "timestampMs": 57440,
+  "confidence": null
+ },
+ {
+  "text": " new",
+  "startMs": 57500,
+  "endMs": 57760,
+  "timestampMs": 57629,
+  "confidence": null
+ },
+ {
+  "text": " commitment,",
+  "startMs": 57760,
+  "endMs": 58160,
+  "timestampMs": 57959,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " or",
+  "startMs": 58480,
+  "endMs": 58760,
+  "timestampMs": 58620,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 58760,
+  "endMs": 58920,
+  "timestampMs": 58840,
+  "confidence": null
+ },
+ {
+  "text": " cost",
+  "startMs": 58920,
+  "endMs": 59200,
+  "timestampMs": 59060,
+  "confidence": null
+ },
+ {
+  "text": " goes",
+  "startMs": 59200,
+  "endMs": 59520,
+  "timestampMs": 59360,
+  "confidence": null
+ },
+ {
+  "text": " over",
+  "startMs": 59520,
+  "endMs": 59860,
+  "timestampMs": 59690,
+  "confidence": null
+ },
+ {
+  "text": " budget,",
+  "startMs": 59860,
+  "endMs": 60160,
+  "timestampMs": 60010,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " bring",
+  "startMs": 60720,
+  "endMs": 60860,
+  "timestampMs": 60790,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 60860,
+  "endMs": 61140,
+  "timestampMs": 61000,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 61140,
+  "endMs": 61320,
+  "timestampMs": 61230,
+  "confidence": null
+ },
+ {
+  "text": " me.\u201d",
+  "startMs": 61320,
+  "endMs": 61540,
+  "timestampMs": 61430,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " That",
+  "startMs": 62140,
+  "endMs": 62480,
+  "timestampMs": 62310,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 62480,
+  "endMs": 62900,
+  "timestampMs": 62690,
+  "confidence": null
+ },
+ {
+  "text": " conversation",
+  "startMs": 62900,
+  "endMs": 63400,
+  "timestampMs": 63150,
+  "confidence": null
+ },
+ {
+  "text": " does",
+  "startMs": 63400,
+  "endMs": 63860,
+  "timestampMs": 63629,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 63860,
+  "endMs": 64080,
+  "timestampMs": 63970,
+  "confidence": null
+ },
+ {
+  "text": " lot.",
+  "startMs": 64080,
+  "endMs": 64280,
+  "timestampMs": 64180,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " The",
+  "startMs": 64879,
+  "endMs": 65060,
+  "timestampMs": 64970,
+  "confidence": null
+ },
+ {
+  "text": " officer",
+  "startMs": 65060,
+  "endMs": 65379,
+  "timestampMs": 65220,
+  "confidence": null
+ },
+ {
+  "text": " knows",
+  "startMs": 65379,
+  "endMs": 65760,
+  "timestampMs": 65570,
+  "confidence": null
+ },
+ {
+  "text": " where",
+  "startMs": 65760,
+  "endMs": 66040,
+  "timestampMs": 65900,
+  "confidence": null
+ },
+ {
+  "text": " they",
+  "startMs": 66040,
+  "endMs": 66200,
+  "timestampMs": 66120,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 66200,
+  "endMs": 66400,
+  "timestampMs": 66300,
+  "confidence": null
+ },
+ {
+  "text": " authority,",
+  "startMs": 66400,
+  "endMs": 66800,
+  "timestampMs": 66600,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " and",
+  "startMs": 67200,
+  "endMs": 67480,
+  "timestampMs": 67340,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 67480,
+  "endMs": 67620,
+  "timestampMs": 67550,
+  "confidence": null
+ },
+ {
+  "text": " both",
+  "startMs": 67620,
+  "endMs": 67900,
+  "timestampMs": 67760,
+  "confidence": null
+ },
+ {
+  "text": " know",
+  "startMs": 67900,
+  "endMs": 68200,
+  "timestampMs": 68050,
+  "confidence": null
+ },
+ {
+  "text": " when",
+  "startMs": 68200,
+  "endMs": 68420,
+  "timestampMs": 68310,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 68420,
+  "endMs": 68580,
+  "timestampMs": 68500,
+  "confidence": null
+ },
+ {
+  "text": " need",
+  "startMs": 68580,
+  "endMs": 68820,
+  "timestampMs": 68699,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 68820,
+  "endMs": 69000,
+  "timestampMs": 68910,
+  "confidence": null
+ },
+ {
+  "text": " get",
+  "startMs": 69000,
+  "endMs": 69140,
+  "timestampMs": 69070,
+  "confidence": null
+ },
+ {
+  "text": " involved.",
+  "startMs": 69140,
+  "endMs": 69600,
+  "timestampMs": 69370,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Try",
+  "startMs": 70200,
+  "endMs": 70440,
+  "timestampMs": 70320,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 70440,
+  "endMs": 70680,
+  "timestampMs": 70560,
+  "confidence": null
+ },
+ {
+  "text": " before",
+  "startMs": 70680,
+  "endMs": 71000,
+  "timestampMs": 70840,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 71000,
+  "endMs": 71180,
+  "timestampMs": 71090,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 71180,
+  "endMs": 71440,
+  "timestampMs": 71310,
+  "confidence": null
+ },
+ {
+  "text": " team",
+  "startMs": 71440,
+  "endMs": 71700,
+  "timestampMs": 71570,
+  "confidence": null
+ },
+ {
+  "text": " meeting.",
+  "startMs": 71700,
+  "endMs": 72060,
+  "timestampMs": 71880,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Look",
+  "startMs": 72580,
+  "endMs": 72820,
+  "timestampMs": 72699,
+  "confidence": null
+ },
+ {
+  "text": " through",
+  "startMs": 72820,
+  "endMs": 73060,
+  "timestampMs": 72940,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 73060,
+  "endMs": 73220,
+  "timestampMs": 73140,
+  "confidence": null
+ },
+ {
+  "text": " messages",
+  "startMs": 73220,
+  "endMs": 73560,
+  "timestampMs": 73390,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 73560,
+  "endMs": 73940,
+  "timestampMs": 73750,
+  "confidence": null
+ },
+ {
+  "text": " find",
+  "startMs": 73940,
+  "endMs": 74220,
+  "timestampMs": 74080,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 74220,
+  "endMs": 74740,
+  "timestampMs": 74479,
+  "confidence": null
+ },
+ {
+  "text": " routine",
+  "startMs": 74740,
+  "endMs": 75120,
+  "timestampMs": 74930,
+  "confidence": null
+ },
+ {
+  "text": " decision",
+  "startMs": 75120,
+  "endMs": 75580,
+  "timestampMs": 75350,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 75580,
+  "endMs": 76160,
+  "timestampMs": 75870,
+  "confidence": null
+ },
+ {
+  "text": " keeps",
+  "startMs": 76160,
+  "endMs": 76480,
+  "timestampMs": 76320,
+  "confidence": null
+ },
+ {
+  "text": " coming",
+  "startMs": 76480,
+  "endMs": 76760,
+  "timestampMs": 76620,
+  "confidence": null
+ },
+ {
+  "text": " back",
+  "startMs": 76760,
+  "endMs": 77020,
+  "timestampMs": 76890,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 77020,
+  "endMs": 77200,
+  "timestampMs": 77110,
+  "confidence": null
+ },
+ {
+  "text": " you.",
+  "startMs": 77200,
+  "endMs": 77620,
+  "timestampMs": 77410,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Decide",
+  "startMs": 77880,
+  "endMs": 78340,
+  "timestampMs": 78110,
+  "confidence": null
+ },
+ {
+  "text": " who",
+  "startMs": 78340,
+  "endMs": 78580,
+  "timestampMs": 78460,
+  "confidence": null
+ },
+ {
+  "text": " should",
+  "startMs": 78580,
+  "endMs": 78760,
+  "timestampMs": 78670,
+  "confidence": null
+ },
+ {
+  "text": " own",
+  "startMs": 78760,
+  "endMs": 78980,
+  "timestampMs": 78870,
+  "confidence": null
+ },
+ {
+  "text": " it,",
+  "startMs": 78980,
+  "endMs": 79220,
+  "timestampMs": 79100,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " agree",
+  "startMs": 79540,
+  "endMs": 79880,
+  "timestampMs": 79710,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 79880,
+  "endMs": 80040,
+  "timestampMs": 79960,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 80040,
+  "endMs": 80160,
+  "timestampMs": 80100,
+  "confidence": null
+ },
+ {
+  "text": " limits,",
+  "startMs": 80160,
+  "endMs": 80500,
+  "timestampMs": 80330,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " and",
+  "startMs": 80760,
+  "endMs": 80940,
+  "timestampMs": 80850,
+  "confidence": null
+ },
+ {
+  "text": " let",
+  "startMs": 80940,
+  "endMs": 81180,
+  "timestampMs": 81060,
+  "confidence": null
+ },
+ {
+  "text": " them",
+  "startMs": 81180,
+  "endMs": 81460,
+  "timestampMs": 81320,
+  "confidence": null
+ },
+ {
+  "text": " make",
+  "startMs": 81460,
+  "endMs": 81700,
+  "timestampMs": 81580,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 81700,
+  "endMs": 81860,
+  "timestampMs": 81780,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 81860,
+  "endMs": 82080,
+  "timestampMs": 81970,
+  "confidence": null
+ },
+ {
+  "text": " call.",
+  "startMs": 82080,
+  "endMs": 82380,
+  "timestampMs": 82229,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " When",
+  "startMs": 82920,
+  "endMs": 83140,
+  "timestampMs": 83030,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 83140,
+  "endMs": 83380,
+  "timestampMs": 83259,
+  "confidence": null
+ },
+ {
+  "text": " message",
+  "startMs": 83380,
+  "endMs": 83680,
+  "timestampMs": 83530,
+  "confidence": null
+ },
+ {
+  "text": " comes",
+  "startMs": 83680,
+  "endMs": 83920,
+  "timestampMs": 83800,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 83920,
+  "endMs": 84140,
+  "timestampMs": 84030,
+  "confidence": null
+ },
+ {
+  "text": " again,",
+  "startMs": 84140,
+  "endMs": 84460,
+  "timestampMs": 84300,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " remind",
+  "startMs": 84880,
+  "endMs": 85240,
+  "timestampMs": 85060,
+  "confidence": null
+ },
+ {
+  "text": " them",
+  "startMs": 85240,
+  "endMs": 85480,
+  "timestampMs": 85360,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 85480,
+  "endMs": 85620,
+  "timestampMs": 85550,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 85620,
+  "endMs": 85800,
+  "timestampMs": 85710,
+  "confidence": null
+ },
+ {
+  "text": " you\u2019ve",
+  "startMs": 85800,
+  "endMs": 86000,
+  "timestampMs": 85900,
+  "confidence": null
+ },
+ {
+  "text": " agreed",
+  "startMs": 86000,
+  "endMs": 86320,
+  "timestampMs": 86160,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 86320,
+  "endMs": 86780,
+  "timestampMs": 86550,
+  "confidence": null
+ },
+ {
+  "text": " give",
+  "startMs": 86780,
+  "endMs": 87040,
+  "timestampMs": 86910,
+  "confidence": null
+ },
+ {
+  "text": " them",
+  "startMs": 87040,
+  "endMs": 87320,
+  "timestampMs": 87180,
+  "confidence": null
+ },
+ {
+  "text": " room",
+  "startMs": 87320,
+  "endMs": 87640,
+  "timestampMs": 87479,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 87640,
+  "endMs": 87940,
+  "timestampMs": 87789,
+  "confidence": null
+ },
+ {
+  "text": " use",
+  "startMs": 87940,
+  "endMs": 88240,
+  "timestampMs": 88090,
+  "confidence": null
+ },
+ {
+  "text": " their",
+  "startMs": 88240,
+  "endMs": 88480,
+  "timestampMs": 88360,
+  "confidence": null
+ },
+ {
+  "text": " judgement.",
+  "startMs": 88480,
+  "endMs": 88880,
+  "timestampMs": 88680,
+  "confidence": null,
+  "pageBreakAfter": true
+ }
+]
