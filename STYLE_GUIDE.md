@@ -64,3 +64,19 @@ Length is automatic: it ends 0.6s after the last spoken word, then the end card.
 - **Model & settings:** `eleven_v3`, stability 0.5, similarity 0.9, speed 0.85 (natural pace ≈ 155 wpm).
 - Chosen by ear over the studio-recording clone (`v2_from_recording`, kept for reference).
 - Optional delivery cues in scripts: `[confident]`, `[emphatic]`, `[warmly]`, `[pause]`.
+
+## 7. Lip sync & one-command videos
+
+- **Lip sync:** Sync (sync.so) model `sync-3` — chosen over `lipsync-2-pro` in a side-by-side test.
+- **Base footage:** a stretch of an existing clip where hands stay below the chin (clip3 0–25s and 26s+ work well).
+  Better base footage = better lips: record base clips in 1080p/4K, facing camera, hands low.
+- **Make a video from a script:**
+
+  ```bash
+  python3 scripts/make_video.py --name my-video --script my-script.txt \
+      --hook "Bold one-liner" --cta "Follow for more." --base public/source/clip3.mp4 --base-start 0
+  ```
+
+  Voice (ElevenLabs) → captions aligned to the script's exact spelling (Whisper timings) → lip sync (Sync) → render `out/my-video.mp4`.
+  Punch-ins default to the 2nd and last sentences; override with `--punch 7 19`.
+- Mark the post as **AI-generated** when publishing (TikTok / Instagram / YouTube require it for realistic synthetic video).

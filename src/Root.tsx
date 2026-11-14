@@ -47,6 +47,26 @@ export const RemotionRoot: React.FC = () => {
             punchIns: [7.06, 19.7],
           }}
         />
+        {/* Used by scripts/make_video.py — props are passed in at render time */}
+        <Composition
+          id="ScriptVideo"
+          component={TalkingHead}
+          width={1080}
+          height={1920}
+          fps={30}
+          durationInFrames={790}
+          calculateMetadata={calculateTalkingHeadMetadata}
+          defaultProps={{
+            videoSrc: "source/lipsync-A-sync3.mp4",
+            captionsSrc: "captions/test1-full.json",
+            footageSeconds: 23.86,
+            hook: "Hard work won't scale your impact.",
+            hookSeconds: 3.5,
+            cta: "Build systems that outlast you. Follow for more.",
+            accent: "#FF4D5E",
+            punchIns: [7.06, 19.7],
+          }}
+        />
       </Folder>
 
       {/* Earlier demo */}

@@ -10,5 +10,10 @@
     "v1_from_videos": "GhOJa8R7VeLElgvBJEcB",
     "v2_from_recording": "2MD5GXrOYngA54KmDf6c"
   },
-  "approved": "v1_from_videos + eleven_v3 (stability 0.5, similarity 0.9, speed 0.85). Reference: compare-line1-OLD-from-videos.mp3"
+  "approved": "v1_from_videos + eleven_v3 (stability 0.5, similarity 0.9, speed 0.85). Reference: compare-line1-OLD-from-videos.mp3",
+  "lipsync": {
+    "provider": "sync.so",
+    "model": "sync-3",
+    "approved": "Chosen over lipsync-2-pro in side-by-side test (LipSync-A-sync3.mp4)"
+  }
 }

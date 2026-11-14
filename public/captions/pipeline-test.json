@@ -1,0 +1,95 @@
+[
+ {
+  "text": " Growth",
+  "startMs": 0,
+  "endMs": 340,
+  "timestampMs": 170,
+  "confidence": null
+ },
+ {
+  "text": " exposes",
+  "startMs": 340,
+  "endMs": 980,
+  "timestampMs": 660,
+  "confidence": null
+ },
+ {
+  "text": " every",
+  "startMs": 980,
+  "endMs": 1440,
+  "timestampMs": 1210,
+  "confidence": null
+ },
+ {
+  "text": " gap",
+  "startMs": 1440,
+  "endMs": 1740,
+  "timestampMs": 1589,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 1740,
+  "endMs": 2020,
+  "timestampMs": 1880,
+  "confidence": null
+ },
+ {
+  "text": " choose",
+  "startMs": 2020,
+  "endMs": 2360,
+  "timestampMs": 2190,
+  "confidence": null
+ },
+ {
+  "text": " not",
+  "startMs": 2360,
+  "endMs": 2640,
+  "timestampMs": 2500,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 2640,
+  "endMs": 2800,
+  "timestampMs": 2719,
+  "confidence": null
+ },
+ {
+  "text": " document.",
+  "startMs": 2800,
+  "endMs": 3180,
+  "timestampMs": 2990,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " So",
+  "startMs": 3560,
+  "endMs": 3800,
+  "timestampMs": 3679,
+  "confidence": null
+ },
+ {
+  "text": " start",
+  "startMs": 3800,
+  "endMs": 4140,
+  "timestampMs": 3969,
+  "confidence": null
+ },
+ {
+  "text": " documenting",
+  "startMs": 4140,
+  "endMs": 4640,
+  "timestampMs": 4390,
+  "confidence": null
+ },
+ {
+  "text": " today.",
+  "startMs": 4640,
+  "endMs": 5180,
+  "timestampMs": 4910,
+  "confidence": null,
+  "pageBreakAfter": true
+ }
+]
