@@ -54,6 +54,6 @@ Length is automatic: it ends 0.6s after the last spoken word, then the end card.
 
 ## 5. Open questions
 
-- Exact spelling of names Whisper may have misheard: "Caught Fast Track" (clip3), "rootlegs execution" (clip1), "All blue unicorns" (clip3), "Area High"/"ERI" (= organisation name?).
+- Organisation: **Aid for Rural Education Access Initiative (AREAi)**. Whisper mishears it as "Area High" / "ERI" — always correct it in captions. Still to confirm: "Caught Fast Track" (clip3), "rootlegs execution" (clip1), "All blue unicorns" (clip3).
 - Logo file and name/title for an optional name tag.
 - Voice clone (ElevenLabs) — for text-only videos without filming.

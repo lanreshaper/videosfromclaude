@@ -1,5 +1,13 @@
 {
   "voiceId": "GhOJa8R7VeLElgvBJEcB",
   "modelId": "eleven_v3",
-  "voiceSettings": { "stability": 0.5, "similarity_boost": 0.9, "speed": 0.85 }
+  "voiceSettings": {
+    "stability": 0.5,
+    "similarity_boost": 0.9,
+    "speed": 0.85
+  },
+  "voices": {
+    "v1_from_videos": "GhOJa8R7VeLElgvBJEcB",
+    "v2_from_recording": "2MD5GXrOYngA54KmDf6c"
+  }
 }
