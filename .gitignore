@@ -10,3 +10,4 @@ out/
 public/source/
 analysis/voice-samples/
 work/
+__pycache__/
