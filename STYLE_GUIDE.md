@@ -57,3 +57,10 @@ Length is automatic: it ends 0.6s after the last spoken word, then the end card.
 - Organisation: **Aid for Rural Education Access Initiative (AREAi)**. Whisper mishears it as "Area High" / "ERI" — always correct it in captions. Still to confirm: "Caught Fast Track" (clip3), "rootlegs execution" (clip1), "All blue unicorns" (clip3).
 - Logo file and name/title for an optional name tag.
 - Voice clone (ElevenLabs) — for text-only videos without filming.
+
+## 6. Approved voice (ElevenLabs)
+
+- **Voice:** `v1_from_videos` (`GhOJa8R7VeLElgvBJEcB`), cloned from the five on-camera clips.
+- **Model & settings:** `eleven_v3`, stability 0.5, similarity 0.9, speed 0.85 (natural pace ≈ 155 wpm).
+- Chosen by ear over the studio-recording clone (`v2_from_recording`, kept for reference).
+- Optional delivery cues in scripts: `[confident]`, `[emphatic]`, `[warmly]`, `[pause]`.
